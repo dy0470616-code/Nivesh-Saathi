@@ -1,0 +1,6 @@
+{
+  "name": "NiveshSaathi AI - Investor Awareness & Grievance Redressal",
+  "description": "Multilingual investor awareness and grievance assistance platform for retail and elderly investors across Bharat, featuring intent detection, regulatory pathways (SEBI SCORES, RBI CMS, IRDAI), and complaint draft generator.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
